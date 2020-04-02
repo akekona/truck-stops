@@ -1,5 +1,5 @@
 # Flying K Finder App
-### This was created during my time as a [Code Chrysalis](https://codechrysalis.io) Student
+*This was created during my time as a [Code Chrysalis](https://codechrysalis.io) Student*
 
 A single-page web app that displays Flying K Truck Stops in the U.S., designed to be used by Truckers on the road or from their homes.
 
@@ -72,7 +72,7 @@ yarn build
 
 ## Authors
 
-This app made was made with ❤️ by engineers-in-training at [Code Chrysalis](https://www.codechrysalis.io/).
+This app made was made with ❤️ by
 
 - [Ashley Kekona](https://github.com/akekona8)
 - [Genta Shibasaki](https://github.com/GentaShibasaki)
