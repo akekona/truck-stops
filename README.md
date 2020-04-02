@@ -1,4 +1,4 @@
-# Flying K Finder App
+# Truck Stop Finder: Flying K
 *This was created during my time as a [Code Chrysalis](https://codechrysalis.io) Student*
 
 A single-page web app that displays Flying K Truck Stops in the U.S., designed to be used by Truckers on the road or from their homes.
